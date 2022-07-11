@@ -7,6 +7,9 @@ Utilizado na Aula 02
 ## Para atualizar o branch
 `git pull origin nome-da-branch` Por exemplo, git pull origin main
 
+## Para criar um novo branch
+`git checkout -b nome_da_branch` ou `git branch nome_da_branch`
+
 ---
 Agora você altera e/ou cria os arquivos conforme a solicitação do cliente e depois segue o processo abaixo.
 ---
