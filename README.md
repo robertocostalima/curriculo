@@ -7,6 +7,10 @@ Utilizado na Aula 02
 ## Para atualizar o branch
 `git pull origin nome-da-branch` Por exemplo, git pull origin main
 
+---
+Agora você altera e/ou cria os arquivos conforme a solicitação do cliente e depois segue o processo abaixo.
+---
+
 ## Para adicionar os arquivos
 `git add .` ou `git add index.html`
 
